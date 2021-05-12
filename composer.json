@@ -1,0 +1,13 @@
+{
+    "name": "spaceboy/image-text",
+    "description": "Simple tool for writing text into image in PHP",
+    "keywords": ["php", "image", "text"],
+    "type": "library",
+    "license": ["MIT", "BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
